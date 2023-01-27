@@ -679,7 +679,7 @@ h6 {
 }
 
 .citation {
-  background: url(./img/gold.png) no-repeat;
+  background: url(../img/gold.png) no-repeat;
   background-size: cover;
   padding: 29px 0 62px;
   display: flex;
